@@ -17,7 +17,7 @@ public class Superday {
 		PropertyConfigurator.configure(log4jConfigFile);
 		logger.info("this is a message....:"+str);
 		logger.warn("warning message...:"+str);
-		logger.error("error message....:"+str);
+		logger.error("error message.......:"+str);
 
 	}
 
