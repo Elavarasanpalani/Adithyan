@@ -15,7 +15,7 @@ public class Elano {
 		PropertyConfigurator.configure(log4jConfigFile);
 		logger.info("this is a message....:"+str);
 		logger.warn("warning message..dfyrt.:"+str);
-		logger.error("error message....ftuhgfjjjjjjjjettshfghfgjdfjgfchjdfghjdfgjdfgjsrsrtuyrtu......:"+str);
+		logger.error("error message....ftuhgfjjjjjjjjettshfgwshfgjdfjgfchjdfghjdfgjdfgjsrsrtuyrtu......:"+str);
 
 	}
 
