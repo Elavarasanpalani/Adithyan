@@ -1,0 +1,12 @@
+INFO    2022-04-29 11:59:37,430 [main] foodball.Elano  - this is a message....:welcome to sonar
+WARN    2022-04-29 11:59:37,431 [main] foodball.Elano  - warning message...:welcome to sonar
+ERROR   2022-04-29 11:59:37,431 [main] foodball.Elano  - error message..,.:welcome to sonar
+INFO    2022-04-29 12:20:26,597 [main] foodball.Elano  - this is a message....:welcome to sonar
+WARN    2022-04-29 12:20:26,598 [main] foodball.Elano  - warning message...:welcome to sonar
+ERROR   2022-04-29 12:20:26,598 [main] foodball.Elano  - error message..,.:welcome to sonar
+INFO    2022-04-29 12:25:30,927 [main] foodball.Elano  - this is a message....:welcome to sonar
+WARN    2022-04-29 12:25:30,928 [main] foodball.Elano  - warning message...:welcome to sonar
+ERROR   2022-04-29 12:25:30,928 [main] foodball.Elano  - error message...:welcome to sonar
+INFO    2022-04-29 12:52:17,089 [main] foodball.Elano  - this is a message....:welcome to sonar
+WARN    2022-04-29 12:52:17,090 [main] foodball.Elano  - warning message...:welcome to sonar
+ERROR   2022-04-29 12:52:17,091 [main] foodball.Elano  - error message...:welcome to sonar
