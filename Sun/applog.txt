@@ -1,0 +1,3 @@
+INFO    2022-04-29 16:20:57,625 [main] Moon.Mass  - this is a message....:welcome to sonar
+WARN    2022-04-29 16:20:57,626 [main] Moon.Mass  - warning message...:welcome to sonar
+ERROR   2022-04-29 16:20:57,626 [main] Moon.Mass  - error message......:welcome to sonar
