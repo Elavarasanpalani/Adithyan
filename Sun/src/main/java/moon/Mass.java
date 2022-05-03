@@ -15,7 +15,7 @@ String str="welcome to sonar";
 		PropertyConfigurator.configure(log4jConfigFile);
 		logger.info("this is a message..ufyfk..:"+str);
 		logger.warn("warning message..yiuguiyg.:"+str);
-		logger.error("error messagejhhgvjh......:"+str);
+		logger.error("error messagejhhgvjh....urtfuxf..:"+str);
 		
 
 	}
