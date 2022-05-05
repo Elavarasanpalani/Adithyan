@@ -1,0 +1,6 @@
+INFO    2022-05-05 09:53:52,062 [main] Captain.Dhoni  - this is a message....:welcome to sonar
+WARN    2022-05-05 09:53:52,063 [main] Captain.Dhoni  - warning message...:welcome to sonar
+ERROR   2022-05-05 09:53:52,063 [main] Captain.Dhoni  - error message....m..:welcome to sonar
+INFO    2022-05-05 14:25:55,296 [main] captain.Dhoni  - this is a message....:welcome to sonar
+WARN    2022-05-05 14:25:55,298 [main] captain.Dhoni  - warning message...:welcome to sonar
+ERROR   2022-05-05 14:25:55,298 [main] captain.Dhoni  - error message.....:welcome to sonar
